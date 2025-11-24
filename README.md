@@ -106,9 +106,16 @@ O coração do projeto está na lógica condicional para a classificação do IM
 
 ```javascript
 
+
+---
+
+## 👨‍💻 Autor e Contato
+
 Este projeto faz parte do portfólio de **Deilson Gilmar**.
 
 * **GitHub:** [https://github.com/DeilsonGilmar-web](https://github.com/DeilsonGilmar-web)
 * **Email:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/deilson-mendes/](https://www.linkedin.com/in/deilson-mendes/).
+* **LinkedIn:** [https://www.linkedin.com/in/deilson-mendes/](https://www.linkedin.com/in/deilson-mendes/)
+
+---
 
