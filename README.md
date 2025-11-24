@@ -76,80 +76,39 @@ Este projeto é um script simples que deve ser executado em um ambiente JavaScri
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **JavaScript (ES5+):** Para toda a lógica de cálculo e interação.
-    * Métodos: `prompt()`, `Number()`, `console.log()`
-    * Estruturas: `if`, `else if`
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+* **HTML:** Utilizado para estruturar o conteúdo e a interface da calculadora (campos de input e botões).
+* **CSS:** Responsável pela estilização e design da interface, garantindo uma experiência visual agradável.
+* **JavaScript:** Linguagem principal para a lógica do cálculo e para a **interação com o DOM** (coleta de dados, cálculo e exibição dos resultados).
 
 ## 👨‍💻 O Código em Destaque
+
+// O cálculo
+let imc = peso / (altura * altura);
+
+// A classificação completa
+if (imc < 18.5) {
+    console.log("Abaixo do peso: " + imc.toFixed(2));
+} else if (imc < 24.9) { 
+    console.log("Peso normal: " + imc.toFixed(2));
+} else if (imc < 29.9) { 
+    console.log("Sobrepeso: " + imc.toFixed(2));
+} else if (imc < 34.9) { 
+    console.log("Obesidade Grau I: " + imc.toFixed(2));
+} else if (imc < 39.9) { 
+    console.log("Obesidade Grau II: " + imc.toFixed(2));
+} else {
+    console.log("Obesidade Grau III (Mórbida): " + imc.toFixed(2));
+}
 
 O coração do projeto está na lógica condicional para a classificação do IMC:
 
 ```javascript
-// O cálculo
-let imc = peso / (altura * altura);
 
-// A classificação
-if (imc < 18.5) {
-   console.log("Abaixo do peso: " + imc)
-} else if (imc < 24.9) { 
-    console.log("Peso normal")
-// ... (continua para as outras classificações)
-}
-    ```
-2.  **Execute o Arquivo:**
-    * **No Navegador (Recomendado):** Inclua o código JavaScript em um arquivo HTML usando a tag `<script src="seu_arquivo.js"></script>` e abra o HTML no seu navegador. As caixas de diálogo (`prompt`) aparecerão.
-    * **Com Node.js:** Se você tiver o Node.js instalado, pode executar o arquivo diretamente no terminal:
-        ```bash
-        node seu_arquivo.js
-        ```
+Este projeto faz parte do portfólio de **Deilson Gilmar**.
 
-## 🛠️ Tecnologias Utilizadas
+* **GitHub:** [https://github.com/DeilsonGilmar-web](https://github.com/DeilsonGilmar-web)
+* **Email:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/deilson-mendes/](https://www.linkedin.com/in/deilson-mendes/).
 
-* **JavaScript (ES5+):** Para toda a lógica de cálculo e interação.
-    * Métodos: `prompt()`, `Number()`, `console.log()`
-    * Estruturas: `if`, `else if`
-
-## 👨‍💻 O Código em Destaque
-
-O coração do projeto está na lógica condicional para a classificação do IMC:
-
-```javascript
-// O cálculo
-let imc = peso / (altura * altura);
-
-// A classificação
-if (imc < 18.5) {
-   console.log("Abaixo do peso: " + imc)
-} else if (imc < 24.9) { 
-    console.log("Peso normal")
-// ... (continua para as outras classificações)
-}
-    ```
-2.  **Execute o Arquivo:**
-    * **No Navegador (Recomendado):** Inclua o código JavaScript em um arquivo HTML usando a tag `<script src="seu_arquivo.js"></script>` e abra o HTML no seu navegador. As caixas de diálogo (`prompt`) aparecerão.
-    * **Com Node.js:** Se você tiver o Node.js instalado, pode executar o arquivo diretamente no terminal:
-        ```bash
-        node seu_arquivo.js
-        ```
-
-## 🛠️ Tecnologias Utilizadas
-
-* **JavaScript (ES5+):** Para toda a lógica de cálculo e interação.
-    * Métodos: `prompt()`, `Number()`, `console.log()`
-    * Estruturas: `if`, `else if`
-
-## 👨‍💻 O Código em Destaque
-
-O coração do projeto está na lógica condicional para a classificação do IMC:
-
-```javascript
-// O cálculo
-let imc = peso / (altura * altura);
-
-// A classificação
-if (imc < 18.5) {
-   console.log("Abaixo do peso: " + imc)
-} else if (imc < 24.9) { 
-    console.log("Peso normal")
-// ... (continua para as outras classificações)
-}
