@@ -108,14 +108,22 @@ O coração do projeto está na lógica condicional para a classificação do IM
 
 
 ---
+git clone [https://github.com/deilsongilmar-web/](https://github.com/deilsongilmar-web/).
 
-## 👨‍💻 Autor e Contato
 
-Este projeto faz parte do portfólio de **Deilson Gilmar**.
 
-* **GitHub:** [https://github.com/DeilsonGilmar-web](https://github.com/DeilsonGilmar-web)
-* **Email:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/deilson-mendes/](https://www.linkedin.com/in/deilson-mendes/)
+## 👨‍💻 Contato
 
+Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Energia Solar.
+
+
+* **Meu LinkedIn:** [www.linkedin.com/in/deilson-mendes](www.linkedin.com/in/deilson-mendes)
+
+* **GitHub:** [https://github.com/DeilsonGilmar](https://github.com/DeilsonGilmar)
+
+* **E-mail:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
+
+* **Instagram:** [@DL_MENDES_SERVICOS](@DL_MENDES_SERVICOS)
+
+* **Telefone:** [85 98561-7285](85 985617285)
 ---
-
