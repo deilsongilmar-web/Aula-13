@@ -106,7 +106,6 @@ O coração do projeto está na lógica condicional para a classificação do IM
 
 ```javascript
 
-
 ---
 git clone [https://github.com/deilsongilmar-web/](https://github.com/deilsongilmar-web/).
 
